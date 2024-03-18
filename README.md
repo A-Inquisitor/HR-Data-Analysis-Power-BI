@@ -23,4 +23,14 @@ I want to be able to evaluate the following:
 - The age distribution of the staff
 - The qualifications relative to salary (Degrees against how much they earn) -> this may be a harder task but definitely down to try
 
-## 
+## Key Takeaways    
+
+- Having a Master's Degree means a much higher chance of getting the top range of salaries
+- HOWEVER, a key point to assess is that having a diploma comparative to a high school diploma is not as useful. As most of the datapoints for a diploma are concentrated in the $35k - $50k region, whereas a majority of the highschool diploma lie in the $45k - $62k region. Through this analysis, a diploma may not be worth the time, either leave with a highschool diploma or go for a Bachelor's Degree.
+- The Age distribution shows a large number of 30 year olds working at the job, this is quite expected.
+- Headcount has been increasing yearly, growth is natural and steady, as the business grows so will the headcount.
+
+
+## Learning Points
+
+- Properly utilising bins function for Age data 
